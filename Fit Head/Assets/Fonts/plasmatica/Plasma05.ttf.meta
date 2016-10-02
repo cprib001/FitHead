@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ee5d9b4e69b71f8448d1cf4b89e1a331
+timeCreated: 1475353623
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Plasmatica Cond
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 395c044855d18fb4b82c98a3e43f1f41, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

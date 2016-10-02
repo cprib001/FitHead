@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FF835D51-8DA3-95FD-9D59-F991543E2B75}") = "Fit Head", "Assembly-CSharp-firstpass.csproj", "{FE7DAF93-8451-D943-E151-E4312D992E87}"
+EndProject
+Project("{FF835D51-8DA3-95FD-9D59-F991543E2B75}") = "Fit Head", "Assembly-CSharp.csproj", "{7869FEB0-C2EF-8FE7-C6FD-AA45C7B670CF}"
+EndProject
+Project("{FF835D51-8DA3-95FD-9D59-F991543E2B75}") = "Fit Head", "Assembly-CSharp-Editor.csproj", "{440B8AFC-2A7B-BDC1-3421-D86E16662001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7DAF93-8451-D943-E151-E4312D992E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7DAF93-8451-D943-E151-E4312D992E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7DAF93-8451-D943-E151-E4312D992E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7DAF93-8451-D943-E151-E4312D992E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7869FEB0-C2EF-8FE7-C6FD-AA45C7B670CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7869FEB0-C2EF-8FE7-C6FD-AA45C7B670CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7869FEB0-C2EF-8FE7-C6FD-AA45C7B670CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7869FEB0-C2EF-8FE7-C6FD-AA45C7B670CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{440B8AFC-2A7B-BDC1-3421-D86E16662001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440B8AFC-2A7B-BDC1-3421-D86E16662001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440B8AFC-2A7B-BDC1-3421-D86E16662001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440B8AFC-2A7B-BDC1-3421-D86E16662001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b35cdd22712e2da4a827db0897dce218
+timeCreated: 1475353623
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Plasmatica Shaded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 76e3ee029ea0bd1429f269f505077249, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

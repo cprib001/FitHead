@@ -1,0 +1,78 @@
+Mono path[0] = 'C:/Users/i/Desktop/FitHead1.0_Data/Managed'
+Mono path[1] = 'C:/Users/i/Desktop/FitHead1.0_Data/Mono'
+Mono config path = 'C:/Users/i/Desktop/FitHead1.0_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/i/Desktop/FitHead1.0_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55410
+Multi-casting "[IP] 10.15.1.106 [Port] 55410 [Flags] 2 [Guid] 2914558368 [EditorId] 2014789272 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-TIU2T5A) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [10.15.1.106:55410]
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8144 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\i\Desktop\FitHead1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\i\Desktop\FitHead1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\i\Desktop\FitHead1.0_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\i\Desktop\FitHead1.0_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\i\Desktop\FitHead1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\i\Desktop\FitHead1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\i\Desktop\FitHead1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\i\Desktop\FitHead1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\i\Desktop\FitHead1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\i\Desktop\FitHead1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\i\Desktop\FitHead1.0_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\i\Desktop\FitHead1.0_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: C:\Users\i\Desktop\FitHead1.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\i\Desktop\FitHead1.0_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1600x1200 60Hz; virtual: 1600x1200 at 0,0
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/VR/openvr/OpenVR.cpp Line: 347)
+
+UnloadTime: 0.543861 ms
+Connected to lighthouse:LHR-92B9B584
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamVR:.ctor() (at C:\Users\i\Documents\Fit Head\Assets\SteamVR\Scripts\SteamVR.cs:256)
+SteamVR:CreateInstance() (at C:\Users\i\Documents\Fit Head\Assets\SteamVR\Scripts\SteamVR.cs:97)
+SteamVR:get_instance() (at C:\Users\i\Documents\Fit Head\Assets\SteamVR\Scripts\SteamVR.cs:48)
+SteamVR_Render:OnEnable() (at C:\Users\i\Documents\Fit Head\Assets\SteamVR\Scripts\SteamVR_Render.cs:283)
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineGameObjectBindings.gen.cs:381)
+UnityEngine.GameObject:AddComponent() (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineGameObjectBindings.gen.cs:386)
+SteamVR_Render:get_instance() (at C:\Users\i\Documents\Fit Head\Assets\SteamVR\Scripts\SteamVR_Render.cs:33)
+SteamVR_TrackedObject:OnEnable() (at C:\Users\i\Documents\Fit Head\Assets\SteamVR\Scripts\SteamVR_TrackedObject.cs:77)
+ 
+(Filename: C:/Users/i/Documents/Fit Head/Assets/SteamVR/Scripts/SteamVR.cs Line: 256)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1960 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.910822 ms
+System memory in use before: 146.6 MB.
+System memory in use after: 120.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 532.
+Total: 2.825142 ms (FindLiveObjects: 0.026874 ms CreateObjectMapping: 0.010528 ms MarkObjects: 0.314735 ms  DeleteObjects: 2.468294 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.564086 ms
+System memory in use before: 147.2 MB.
+System memory in use after: 62.9 MB.
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 7.565575 ms (FindLiveObjects: 0.026874 ms CreateObjectMapping: 0.009419 ms MarkObjects: 0.218043 ms  DeleteObjects: 7.310406 ms)
+
+OpenVR Shutdown
+ 
+(Filename: C:/buildslave/unity/build/Runtime/VR/openvr/OpenVR.cpp Line: 701)
+

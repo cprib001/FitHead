@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 94b22ed8036716a449bbb184f47916b4
+timeCreated: 1475353623
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Plasmatica Outline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 42dcef91e70a72d49a1bde400067ac7a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
